@@ -1,7 +1,7 @@
 {
 	"name": "philwilliammee/cd-events-wp-plugin",
 	"description": "A wordpress plugin to use Localist Events Viewer.",
-	"type": "wp-plugin",
+	"type": "wordpress-plugin",
 	"homepage": "https://it.cornell.edu/custom-web",
 	"authors": [
 	  {
