@@ -8,12 +8,12 @@
 
 ### Installation
 
-* composer. [example-composer.json](./docs/example-composer.json) : `composer require philwilliammee/wp-localist-viewer:dev-master`
+* composer with packagist repo. [example-composer.json](./docs/example-composer.json) : `composer require philwilliammee/cd-events-wp-plugin`
 
 * zip file :
-[https://github.com/philwilliammee/wp-localist-viewer/archive/master.zip](https://github.com/philwilliammee/wp-localist-viewer/archive/master.zip)
+[https://github.com/CU-CommunityApps/CD-events-wp-plugin/archive/master.zip](https://github.com/CU-CommunityApps/CD-events-wp-plugin/archive/master.zip)
 
-* repo : [https://github.com/philwilliammee/wp-localist-viewer](https://github.com/philwilliammee/wp-localist-viewer)
+* repo : [https://github.com/CU-CommunityApps/CD-events-wp-plugin](https://github.com/CU-CommunityApps/CD-events-wp-plugin)
 
 Download the plugin and add it to your sites plugins directory.
 
@@ -25,14 +25,14 @@ activate the plugin via the wordpress dashboard.
 
 After activation the plugin adds:
 
-1. Events Widget.  
-![Events widget](https://raw.githubusercontent.com/philwilliammee/wp-localist-viewer/master/docs/events_widget.png)
+1. Events Widget.
+![Events widget](https://raw.githubusercontent.com/CU-CommunityApps/CD-events-wp-plugin/master/docs/events_widget.png)
 
-2. Events After Content section  
-![Events widgets section](https://raw.githubusercontent.com/philwilliammee/wp-localist-viewer/master/docs/events_widget_area.png)
+2. Events After Content section
+![Events widgets section](https://raw.githubusercontent.com/CU-CommunityApps/CD-events-wp-plugin/master/docs/events_widget_area.png)
 
-3. Events After Content template to display widgets section.  
-![Events page template](https://raw.githubusercontent.com/philwilliammee/wp-localist-viewer/master/docs/events_widget_template.png)
+3. Events After Content template to display widgets section.
+![Events page template](https://raw.githubusercontent.com/CU-CommunityApps/CD-events-wp-plugin/master/docs/events_widget_template.png)
 
 ### Configuration
 
