@@ -25,18 +25,19 @@ activate the plugin via the wordpress dashboard.
 
 After activation the plugin adds:
 
-1. Events Widget.
+1. Events Widget.  
 ![Events widget](https://raw.githubusercontent.com/CU-CommunityApps/CD-events-wp-plugin/master/docs/events_widget.png)
 
-2. Events After Content section
+2. Events After Content section  
 ![Events widgets section](https://raw.githubusercontent.com/CU-CommunityApps/CD-events-wp-plugin/master/docs/events_widget_area.png)
 
-3. Events After Content template to display widgets section.
+3. Events After Content template to display widgets section.  
 ![Events page template](https://raw.githubusercontent.com/CU-CommunityApps/CD-events-wp-plugin/master/docs/events_widget_template.png)
 
 ### Configuration
 
-* Add a events widget to Events After Content section and expand the widget to set configuration.  ![event widget add](./docs/events_widget_add.png)
+* Add a events widget to Events After Content section and expand the widget to set configuration.  
+![event widget add](./docs/events_widget_add.png)
 
 * Configure the widget for your site.
   * Configuration fields.
