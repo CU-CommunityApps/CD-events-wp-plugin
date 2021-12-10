@@ -71,3 +71,8 @@ download the repo using git.
 modify the page templates in /page-templater/cwd-events-template.php
 
 To modify the css styles go to /src and run `npm install` modify the style in /src/styles/app.scss the styles will need to be compiled go to /src and run then `npm run prod` this will compile the css file and output to cwd-events-component-public.css
+
+## Sites Using this pugin
+
+- [Engaged Cornell](https://oei.cornell.edu/)
+- [The Intergroup Dialogue Project (IDP)](https://idp.cornell.edu/)
