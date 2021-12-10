@@ -74,5 +74,3 @@ To modify the css styles go to /src and run `npm install` modify the style in /s
 
 ## Sites using this pugin
 
-- [Engaged Cornell](https://oei.cornell.edu/)
-- [The Intergroup Dialogue Project (IDP)](https://idp.cornell.edu/)
