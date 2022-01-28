@@ -422,6 +422,7 @@ class Cwd_Events_Widget extends WP_Widget {
 			data-itemclass= "<?php echo esc_html( $instance['itemclass'] ); ?>"
 			data-readmore= "<?php echo esc_html( $instance['readmore'] ); ?>"
 			data-url= "<?php echo esc_html( $instance['url'] ); ?>"
+			data-api='localist'
 		>
 		</div>
 		<?php
